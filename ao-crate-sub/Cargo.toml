@@ -2,6 +2,8 @@
 name = "ao-crate-sub"
 version = "0.1.0"
 edition = "2024"
+description = "publish sub practice"
+license = "MIT"
 repository = "https://github.com/Leo-AO-99/ao-crate/tree/master/ao-crate-sub"
 
 [dependencies]
